@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beforeRunningCommand</key>
+	<string>saveActiveFile</string>
+	<key>input</key>
+	<string>none</string>
+	<key>name</key>
+	<string>Save Document</string>
+	<key>output</key>
+	<string>discard</string>
+	<key>uuid</key>
+	<string>537D1A1D-5471-40F0-8123-22535C747FE6</string>
+</dict>
+</plist>
