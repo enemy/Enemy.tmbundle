@@ -1,1 +1,15 @@
 TextMate Bundle for the Lulz
+
+
+FEATURES
+========
+
+Remove trailing whitespace when saving the current file.
+
+
+INSTALL
+=======
+
+cd ~/Library/Application Support/TextMate/Bundles
+git clone URL
+
